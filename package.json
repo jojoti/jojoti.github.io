@@ -1,0 +1,13 @@
+{
+  "name": "pyeno.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "apache",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
