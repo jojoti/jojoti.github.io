@@ -6,5 +6,9 @@
   "license": "apache",
   "dependencies": {
     "vuepress": "^1.2.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   }
 }
