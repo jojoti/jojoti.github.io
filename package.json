@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "license": "apache",
-  "directories": {
-    "doc": "docs"
-  },
-  "devDependencies": {
+  "dependencies": {
     "vuepress": "^1.2.0"
   }
 }
