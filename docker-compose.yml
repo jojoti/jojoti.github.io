@@ -1,0 +1,19 @@
+version: '3'
+services:
+
+  wiki:
+    build:
+      ./docker/
+    restart: always
+    ports:
+      - "127.0.0.1:8888:8080"
+    volumes:
+      - ./:/var/www:rw
+#    working_dir: /home/wiki
+    command:
+    - /bin/sh
+    - -c
+    - |
+      yarn add -D vuepress
+      npx vuepress build docs
+      npx vuepress dev docs
