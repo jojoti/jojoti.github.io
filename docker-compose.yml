@@ -2,8 +2,7 @@ version: '3'
 services:
 
   wiki:
-    build:
-      ./docker/
+    image: node:8
     restart: always
     ports:
       - "127.0.0.1:8888:8080"
