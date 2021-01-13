@@ -1,5 +1,15 @@
 # 记录对互联网的思考
 
 ```人们想要的东西往往并不少他们真正需要的，因为两者是受不同的原因驱动的。技术应该让愿望和需求保持一致，并同时满足两者。```————《奇思妙想：15位计算机天才及其重大发现》
- 
+
+## 关于我
+
+## License
+
+<p align="left">
+  <img src="cc4-license.png" alt="CC4 License"/>
+</p>
+
+[署名 - 非商业性使用 - 相同方式共享 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
 ## 想要分享我的[博客](https://jojoti.github.io)给____?
