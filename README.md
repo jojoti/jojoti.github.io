@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jojoti&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 欢迎 👏🏻
+### 简介
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojoti" alt="jojoti" /> </p> 
 
@@ -20,7 +20,8 @@ https://jojoti.github.io
 ✍🏼羽毛球🏸, 跑步🏃, 健身💪🏼, 冥想🧘🏻‍♂️, 游泳🏊🏼（在学，0%）
 
 ### 项目
-+ 用于 https://github.com/jojoti/vs-docker-env
++ VS Code Remote Server，集成常用开发环境 ：https://github.com/jojoti/vs-docker-env
++ 分布式自增ID（Private，在做，0%） : https://github.com/jojoti/jogid
 
 ## License
 
