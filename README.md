@@ -17,4 +17,5 @@
 + GitHub Pages（推荐）地址: https://jojoti.github.io
 + GitHub 地址：https://github.com/jojoti/jojoti.github.io
 
-## 想要分享我的[博客](https://jojoti.github.io)给____?
+## 分享
++ 想要分享我的博客（https://jojoti.github.io）给____?
