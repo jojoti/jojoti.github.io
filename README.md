@@ -12,4 +12,9 @@
 
 [署名 - 非商业性使用 - 相同方式共享 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
+## 使用方式
+您可以使用以下方式阅读博客
++ GitHub Pages（推荐）地址: https://jojoti.github.io
++ GitHub 地址：https://github.com/jojoti/jojoti.github.io
+
 ## 想要分享我的[博客](https://jojoti.github.io)给____?
