@@ -10,14 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojoti" alt="jojoti" /> </p> 
 
-🇨🇳 China Chongqing
+🇨🇳 China Chongqing  
 ✍🏼Backend, Java, Golang, PHP, Rust
 
 https://jojoti.github.io
 
 ### 兴趣
 
-✍🏼羽毛球🏸, 跑步🏃, 健身💪🏼, 冥想🧘🏻‍♂️, 游泳（在学，0%）🏊🏼
+✍🏼羽毛球🏸, 跑步🏃, 健身💪🏼, 冥想🧘🏻‍♂️, 游泳🏊🏼（在学，0%）
 
 ### 项目
 + 用于 https://github.com/jojoti/vs-docker-env
