@@ -6,12 +6,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jojoti&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Welcome 👋
+### Welcome 👏🏻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojoti" alt="jojoti" /> </p> 
 
-🇨🇳 China Chongqing  
-🕹Backend, Java, Golang, PHP, Rust, 
+🇨🇳 China Chongqing
+✍🏼Backend, Java, Golang, PHP, Rust
+🎨Badminton🏸, Run🏃, Fitness💪🏼, Meditation🧘🏻‍♂️, Swim🏊🏼
 
 https://jojoti.github.io
 
