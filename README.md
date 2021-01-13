@@ -17,7 +17,10 @@ https://jojoti.github.io
 
 ### 兴趣
 
-✍🏼Badminton🏸, Run🏃, Fitness💪🏼, Meditation🧘🏻‍♂️, Swim🏊🏼
+✍🏼羽毛球🏸, 跑步🏃, 健身💪🏼, 冥想🧘🏻‍♂️, 游泳（在学，0%）🏊🏼
+
+### 项目
++ 用于 https://github.com/jojoti/vs-docker-env
 
 ## License
 
