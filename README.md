@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojoti" alt="jojoti" /> </p> 
 
-🇨🇳 China Chongqing  
+中国 重庆  
 ✍🏼Backend, Java, Golang, PHP, Rust
 
 https://jojoti.github.io
