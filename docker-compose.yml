@@ -15,5 +15,5 @@ services:
     - -c
     - |
       npm install
-      npx vuepress dev /home/blog/docs
-      npx vuepress build /home/blog/docs
+      npx vuepress dev /home/blog/books
+      npx vuepress build /home/blog/books
