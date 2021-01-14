@@ -7,7 +7,7 @@ script:
   - npm vuepress build books
 branches:
   only:
-    - dev    # 构建的分支 发布到 master 分支 个人主页必须这样配置
+    - master    # 构建的分支 发布到 master 分支 个人主页必须这样配置
 # https://docs.travis-ci.com/user/deployment/pages/
 deploy:
   provider: pages
