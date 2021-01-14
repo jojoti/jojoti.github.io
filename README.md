@@ -11,13 +11,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojoti" alt="jojoti" /> </p> 
 
 中国 重庆  
-✍🏼Backend, Java, Golang, PHP, Rust
+✍🏼: Backend, Java, Golang, PHP, Rust
 
 https://jojoti.github.io
 
 ### 兴趣
 
-✍🏼羽毛球(在打,很菜)🏸, 跑步(会跑,很慢)🏃, 健身(在做,3次/周)💪🏼, 冥想(在做,很少)🧘🏻‍♂️, 游泳🏊🏼(在学，0%)
+✍🏼: 羽毛球(在打,很菜)🏸, 跑步(会跑,很慢)🏃, 健身(在做,3次/周)💪🏼, 冥想(在做,很少)🧘🏻‍♂️, 游泳🏊🏼(在学，0%)
 
 ### 项目
 + VS Code Remote Server，集成常用开发环境 ：https://github.com/jojoti/vs-docker-env
