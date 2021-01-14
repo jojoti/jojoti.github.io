@@ -34,11 +34,7 @@ https://jojoti.github.io
 ## 使用方式
 
 您可以使用以下方式阅读博客:
-+ GitHub Pages（
-```diff 
-- 推荐
-```
-）地址: https://jojoti.github.io
++ GitHub Pages（<span style="color:red;">推荐</span>）地址: https://jojoti.github.io
 + GitHub 地址：https://github.com/jojoti/jojoti.github.io
 
 ## 分享
