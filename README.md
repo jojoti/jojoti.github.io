@@ -34,7 +34,7 @@ https://jojoti.github.io
 ## 使用方式
 
 您可以使用以下方式阅读博客:
-+ GitHub Pages（![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `推荐`）地址: https://jojoti.github.io
++ GitHub Pages（`推荐`) ）地址: https://jojoti.github.io
 + GitHub 地址：https://github.com/jojoti/jojoti.github.io
 
 ## 分享
