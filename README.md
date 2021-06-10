@@ -18,8 +18,8 @@
 ✍🏼: 羽毛球(在打,很菜)🏸, 跑步(会跑,很慢)🏃, 健身(在做,2次/周)💪🏼, 冥想(在做,很少)🧘🏻‍♂️, 游泳🏊🏼(在学，0%)
 
 ### 项目
-+ VS Code Remote Server，集成常用开发环境（在做，0%） ：https://github.com/jojoti/vs-docker-env
-+ 分布式自增ID（Private，在做，0%） : https://github.com/jojoti/jogid
++ ~~VS Code Remote Server，集成常用开发环境（在做，0%） ：https://github.com/jojoti/vs-docker-env~~
++ ~~分布式自增ID（Private，在做，0%） : https://github.com/jojoti/jogid~~
 
 ## License
 
