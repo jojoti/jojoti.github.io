@@ -28,8 +28,8 @@
 + [Build stateful server](https://github.com/jojoti/jo2way), 开发中~
 
 ```
-快速构建有状态服务, 使用golang实现, 可以支持聊天、游戏server 等待有状态服务的开发，backend使用sidecar模式，支持多种语言，
-可以 python 这样的脚本语言，也可以是jvm上的编译语言等 
+快速构建有状态服务, 使用golang实现, 可以支持聊天、游戏server 等待有状态服务的开发，
+backend使用sidecar模式，支持多种语言，可以 python 这样的脚本语言，也可以是jvm上的编译语言等 
 ```
 
 + [Build dev env](https://github.com/jojoti/jo2env), 开发中~
