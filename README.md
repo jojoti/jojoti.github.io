@@ -22,7 +22,7 @@
 + [Jvm starters](https://github.com/jojoti/experiment-jvm), 开发中~
 
 ```
-整合了jvm上kotlin,Java, spring boot, grpc, akka 等无状态web和有状态server的构建等
+整合了jvm上 kotlin, java, spring boot, grpc, akka 等无状态web和有状态server的构建等
 ```
 
 + [Build stateful server](https://github.com/jojoti/jo2way), 开发中~
