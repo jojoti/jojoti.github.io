@@ -35,7 +35,7 @@ backend使用sidecar模式，支持多种语言，可以 python 这样的脚本�
 + [Build dev env](https://github.com/jojoti/jo2env), 开发中~
 
 ```
-一些工作中语言的 dokcer 的配置，dockerfile, docker-compose , docker-swarm 的配置参考
+一些工作学习中使用的 dokcer 的配置，dockerfile, docker-compose , docker-swarm 的配置参考
 ```
 
 + [分布式自增ID](), 规划中~
